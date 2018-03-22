@@ -90,7 +90,7 @@ for ($i=1;$i<=10;$i++)
   // Don't do this!
   //mysqli_free_result($articles_data);
 }
-#print $articles_info['pnr'];
+print $articles_info['pnr'];
 }
 // If you need to, free it outside the loop
 #mysqli_free_result($result2);
