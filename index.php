@@ -1,9 +1,3 @@
-<html>
-<head>
-<title> Successful Booking Details</title>
-</script>
-</head>
-<body>
 
 <?php
 ini_set('display_errors',1);
@@ -119,6 +113,5 @@ for($c=0;$c != count($fail_Arr);$c++)
 }
 ?>
 
-</body></html>
 
 
