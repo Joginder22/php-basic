@@ -47,7 +47,7 @@ if (!$result2) {
  die("no records found".mysqli_connect_error());
 }
 
-
+#echo 123
 
 $data = $result2->fetch_assoc();
 
