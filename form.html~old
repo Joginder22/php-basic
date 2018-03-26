@@ -1,0 +1,11 @@
+<html>
+<form action="action.php" method="post"/>
+
+<p>Add Name: <input type="text" name="Name"/> </p>
+
+<input type="submit" value="Submit"/>
+
+
+</form>
+</html>
+
